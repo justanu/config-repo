@@ -1,2 +1,2 @@
 polar:
-    greeting: "Welcome to the DEFAULT catalog from the config server backed by GITHUB [:%s]"
+    greeting: "Welcome to the DEFAULT catalog from the config server backed by GITHUB [:%s] - refreshed"
